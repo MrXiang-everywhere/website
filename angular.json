@@ -123,7 +123,7 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "https://github.com/zhenyang92/website",
+            "baseHref": "https://github.com/MrXiang-everywhere/website",
             "name": "Chang Lyu",
             "email": "Chang_Lyu@outlook.com"
           }
