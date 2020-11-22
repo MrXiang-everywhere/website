@@ -1,0 +1,7 @@
+<h2 class="part-title">{{ title }}</h2>
+<div class="container">
+  <div class="course-list" *ngFor="let course of courses">
+    <div innerHTML="{{ course.type }}"></div>
+    <div class="container">{{ course.content }}</div>
+  </div>
+</div>

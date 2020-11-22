@@ -10,6 +10,7 @@ export class SidenavComponent implements OnInit {
   name = profile.sideNavContent.name;
   intro1 = profile.sideNavContent.intro1;
   intro2 = profile.sideNavContent.intro2;
+  links = profile.sideNavContent.links;
   constructor() {
   }
 
