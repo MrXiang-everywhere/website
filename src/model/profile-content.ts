@@ -26,7 +26,7 @@ export const profile = {
     mainTitle: 'This is my website!',
     introTitle: 'About me:',
     intro:
-      'I am Xiang Ni. My current research supervised by Prof. Jianyu Li focuses on tuning adhesion properties of hydrogels combining strategies of mechanics and chemistry. To understand, predict and control mechanical behaviors of hydrogels, my research investigated the fracture behavior of tissue adhesive hydrogels. Novel techniques arising from my research include programming adhesion performance of hydrogels by surface topology. I am now keen to collaborate with material scientists at XXX University and aim to develop advanced materials including but not limited to engineering materials, electrical materials and semi-conductor materials. I would also like to contribute to computational materials science which shows great power in materials research. I am currently exploring the possibility of finding a doctoral position, given the current interest in novel materials. ',
+      'I am Xiang Ni. My current research supervised by Prof. Jianyu Li focuses on tuning adhesion properties of hydrogels combining strategies of mechanics and chemistry. To understand, predict and control mechanical behaviors of hydrogels, my research investigated the fracture behavior of tissue adhesive hydrogels. Novel techniques arising from my research include programming adhesion performance of hydrogels by surface topology. I am now keen to collaborate with material scientists and aim to develop advanced materials including but not limited to engineering materials, electrical materials and semi-conductor materials. I would also like to contribute to computational materials science which shows great power in materials research. I am currently exploring the possibility of finding a doctoral position, given the current interest in novel materials. ',
     researchExpPartTitle: 'Research Experience:',
     researchExpPartContent:
       'Here is my research experience content: blablabla..',
@@ -90,13 +90,13 @@ export const profile = {
           authors:
             '<strong>Xiang Ni</strong>, Guangyu Bao, Luc Mongeau, Jianyu Li. (2020). ',
           journal:
-            'Proceedings of the National Academy of Sciences. Under Revision. ',
-          doi: 'arXiv',
+            'In preparation',
+          doi: '',
         },
         {
           authors: '<strong>Xiang Ni</strong>, Zhen Yang, Jianyu Li. (2020). ',
           journal: 'ACS Macro Letter. Under Revision. ',
-          doi: 'arXiv',
+          doi: '',
         },
         {
           authors: '<strong>Xiang Ni</strong>, chao chen, Jianyu Li. (2020).',
